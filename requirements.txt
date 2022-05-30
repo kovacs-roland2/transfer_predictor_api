@@ -5,11 +5,8 @@ django-cors-headers
 pandas
 matplotlib
 highlight_text
-base64
-math
 scipy
 numpy
-time
 json
 joblib
 sklearn
