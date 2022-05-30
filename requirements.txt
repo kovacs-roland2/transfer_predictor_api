@@ -5,7 +5,6 @@ django-cors-headers
 pandas
 matplotlib
 highlight_text
-io
 base64
 math
 scipy

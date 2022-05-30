@@ -4,7 +4,6 @@ def similarity_plot(position, name):
     import matplotlib as mpl
     import highlight_text
     import matplotlib.font_manager
-    from io import BytesIO
     import base64
     import math
     from scipy import stats

@@ -4,7 +4,6 @@ def scatter_plot(tournament, team, position, name, attr1, attr2):
     import matplotlib as mpl
     import highlight_text
     import matplotlib.font_manager
-    from io import BytesIO
     import base64
     import os
     from transferPredict.settings import BASE_DIR
