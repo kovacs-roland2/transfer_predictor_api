@@ -1,0 +1,11 @@
+Feature,Importance,Label
+SP_LA_LIGA,0.21,Teammates from the La Liga
+Country,0.05,Nationality of the player
+FR_LIGUE_1,0.04,Teammates from the Ligue 1
+IT_SERIE_A,0.03,Teammates from the Serie A
+LeagueInvolved,0.03,League before the transfer
+Foot,0.03,Preffered foot
+CorrMarketValue,0.03,Market value 
+GE_BUNDESLIGA,0.03,Teammates from the Bundesliga
+ContractLeft,0.02,Years left in the contract
+LeagueInvolved_CorrMarketValue,0.02,League before the transfer * Market Value

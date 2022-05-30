@@ -1,0 +1,11 @@
+Feature,Importance,Label
+EN_PL,0.19,Teammates from the Premier League
+CorrMarketValue,0.07,Market value 
+LeagueInvolved,0.04,League before the transfer
+Country,0.03,Nationality of the player
+DEGREE,0.03,Number of different teammates during the career
+IT_SERIE_A,0.03,Teammates from the Serie A
+Foot,0.02,Preffered foot
+SP_LA_LIGA,0.02,Teammates from the La Liga
+Age,0.02,Age
+GE_BUNDESLIGA,0.02,Teammates from the Bundesliga

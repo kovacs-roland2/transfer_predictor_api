@@ -1,0 +1,11 @@
+Feature,Importance,Label
+IT_SERIE_A,0.41,Teammates from the Serie A
+FR_LIGUE_1,0.03,Teammates from the Ligue 1
+Country,0.03,Nationality of the player
+SP_LA_LIGA,0.03,Teammates from the La Liga
+GE_BUNDESLIGA,0.03,Teammates from the Bundesliga
+LeagueInvolved,0.03,League before the transfer
+CorrMarketValue,0.03,Market value 
+Foot,0.02,Preffered foot
+DEGREE_IT_SERIE_A_MUL,0.02,Number of teammates * Teammates from the Searie A
+Age,0.02,Age

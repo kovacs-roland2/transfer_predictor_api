@@ -1,0 +1,11 @@
+Feature,Importance,Label
+LeagueInvolved,0.07,League before the transfer
+FR_LIGUE_1,0.07,Teammates from the Ligue 1
+Country,0.06,Nationality of the player
+IT_SERIE_A,0.04,Teammates from the Serie A
+GE_BUNDESLIGA,0.04,Teammates from the Bundesliga
+Years,0.04,Years since the player is at the current club
+Degree,0.03,Number of different teammates durign career
+EN_PL,0.03,Teammates from the Premier League
+Foot,0.03,Preffered foot
+SP_LA_LIGA,0.02,Teammates from the La Liga
