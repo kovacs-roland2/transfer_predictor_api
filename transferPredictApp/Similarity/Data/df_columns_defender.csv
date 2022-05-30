@@ -1,0 +1,485 @@
+,index,NewName_x,playerId,positionText_x,teamName_x,League_x
+0,3,R. Pereira,120763,Defender,Leicester,English Premier League
+1,13,T. Alexander-Arnold,318871,Defender,Liverpool,English Premier League
+2,34,A. Robertson,115726,Defender,Liverpool,English Premier League
+3,37,H. Maguire,99487,Defender,Manchester United,English Premier League
+4,38,J. Tarkowski,131464,Defender,Burnley,English Premier League
+5,39,C. Azpilicueta,25931,Defender,Chelsea,English Premier League
+6,52,D. Sidibé,10454,Defender,Everton,English Premier League
+7,54,C. Basham,35607,Defender,Sheffield United,English Premier League
+8,59,B. Chilwell,299272,Defender,Leicester,English Premier League
+9,60,M. Doherty,94042,Defender,Wolverhampton Wanderers,English Premier League
+10,63,E. Stevens,42266,Defender,Sheffield United,English Premier League
+11,64,J. Evans,22079,Defender,Leicester,English Premier League
+12,71,J. O'Connell,134473,Defender,Sheffield United,English Premier League
+13,77,K. Zouma,106086,Defender,Chelsea,English Premier League
+14,78,L. Dunk,86441,Defender,Brighton,English Premier League
+15,83,J. Egan,108632,Defender,Sheffield United,English Premier League
+16,86,F. Guilbert,260493,Defender,Aston Villa,English Premier League
+17,88,B. Mee,94935,Defender,Burnley,English Premier League
+18,95,C. Kabasele,68393,Defender,Watford,English Premier League
+19,96,J. Vertonghen,21778,Defender,Tottenham,English Premier League
+20,98,F. Schär,82726,Defender,Newcastle United,English Premier League
+21,99,J. Willems,94885,Defender,Newcastle United,English Premier League
+22,102,Jonny,115917,Defender,Wolverhampton Wanderers,English Premier League
+23,108,A. Webster,109922,Defender,Brighton,English Premier League
+24,110,N. Aké,122945,Defender,Bournemouth,English Premier League
+25,111,J. Tomkins,33930,Defender,Crystal Palace,English Premier League
+26,115,Sokratis,22210,Defender,Arsenal,English Premier League
+27,118,G. Baldock,134244,Defender,Sheffield United,English Premier League
+28,119,K. Walker,69778,Defender,Manchester City,English Premier League
+29,125,S. Cook,68662,Defender,Bournemouth,English Premier League
+30,126,P. van Aanholt,78221,Defender,Crystal Palace,English Premier League
+31,150,D. Sánchez,322655,Defender,Tottenham,English Premier League
+32,159,J. Lascelles,105171,Defender,Newcastle United,English Premier League
+33,164,I. Diop,300359,Defender,West Ham,English Premier League
+34,167,M. Keane,107941,Defender,Everton,English Premier League
+35,169,A. Ogbonna,23547,Defender,West Ham,English Premier League
+36,189,P. Dummett,112009,Defender,Newcastle United,English Premier League
+37,197,A. Cresswell,68049,Defender,West Ham,English Premier League
+38,198,M. Montoya,91387,Defender,Brighton,English Premier League
+39,201,A. Smith,69877,Defender,Bournemouth,English Premier League
+40,203,C. Dawson,73063,Defender,Watford,English Premier League
+41,203,C. Dawson,73063,Defender,Watford,English Premier League
+42,203,C. Dawson,73063,Defender,Watford,English Premier League
+43,203,C. Dawson,73063,Defender,Watford,English Premier League
+44,206,J. Stephens,92550,Defender,Southampton,English Premier League
+45,214,J. Lewis,350138,Defender,Norwich,English Premier League
+46,215,K. Femenía,75919,Defender,Watford,English Premier League
+47,222,R. Bertrand,22846,Defender,Southampton,English Premier League
+48,233,S. Kolasinac,110260,Defender,Arsenal,English Premier League
+49,234,C. Coady,97710,Defender,Wolverhampton Wanderers,English Premier League
+50,849,D. Carvajal,106883,Defender,Real Madrid,Spain Primera Division
+51,863,Yuri,56057,Defender,Athletic Bilbao,Spain Primera Division
+52,867,R. Varane,93206,Defender,Real Madrid,Spain Primera Division
+53,868,K. Trippier,83078,Defender,Atletico Madrid,Spain Primera Division
+54,873,F. Mendy,296337,Defender,Real Madrid,Spain Primera Division
+55,874,Felipe,102173,Defender,Atletico Madrid,Spain Primera Division
+56,885,G. Piqué,12712,Defender,Barcelona,Spain Primera Division
+57,887,S. Ramos,9909,Defender,Real Madrid,Spain Primera Division
+58,893,D. Suárez,83705,Defender,Getafe,Spain Primera Division
+59,895,A. Capa,130377,Defender,Athletic Bilbao,Spain Primera Division
+60,898,Cote,70216,Defender,Eibar,Spain Primera Division
+61,901,D. Carlos,134984,Defender,Sevilla,Spain Primera Division
+62,907,C. Lenglet,236511,Defender,Barcelona,Spain Primera Division
+63,910,J. Zaldua,135911,Defender,Real Sociedad,Spain Primera Division
+64,924,J. Navas,9446,Defender,Sevilla,Spain Primera Division
+65,933,N. Semedo,296363,Defender,Barcelona,Spain Primera Division
+66,935,S. Roberto,90782,Defender,Barcelona,Spain Primera Division
+67,942,N. Monreal,23072,Defender,Real Sociedad,Spain Primera Division
+68,953,G. Paulista,76810,Defender,Valencia,Spain Primera Division
+69,960,J. Alba,44288,Defender,Barcelona,Spain Primera Division
+70,963,J. Costa,69965,Defender,Valencia,Spain Primera Division
+71,967,X. Navarro,100881,Defender,Deportivo Alaves,Spain Primera Division
+72,975,R. Albiol,12575,Defender,Villarreal,Spain Primera Division
+73,977,H. Mallo,79929,Defender,Celta Vigo,Spain Primera Division
+74,981,P. Oliveira,83475,Defender,Eibar,Spain Primera Division
+75,983,R. Rosales,40346,Defender,Leganes,Spain Primera Division
+76,989,M. Gaspar,79909,Defender,Villarreal,Spain Primera Division
+77,990,J. Gayà,119817,Defender,Valencia,Spain Primera Division
+78,995,D. Siovas,79755,Defender,Leganes,Spain Primera Division
+79,997,S. Postigo,109896,Defender,Levante,Spain Primera Division
+80,999,A. Mandi,90115,Defender,Real Betis,Spain Primera Division
+81,1001,M. Hermoso,344156,Defender,Atletico Madrid,Spain Primera Division
+82,1004,D. Dakonam,332990,Defender,Getafe,Spain Primera Division
+83,1008,K. Omeruo,104432,Defender,Leganes,Spain Primera Division
+84,1012,U. Bustinza,248088,Defender,Leganes,Spain Primera Division
+85,1024,A. Arbilla,91438,Defender,Eibar,Spain Primera Division
+86,1025,E. Garay,14079,Defender,Valencia,Spain Primera Division
+87,1029,B. Espinosa,67327,Defender,Espanyol,Spain Primera Division
+88,1031,C. Awaziem,290842,Defender,Leganes,Spain Primera Division
+89,1034,R. Duarte,261286,Defender,Deportivo Alaves,Spain Primera Division
+90,1037,D. Llorente,123232,Defender,Real Sociedad,Spain Primera Division
+91,1075,A. Nyom,91434,Defender,Getafe,Spain Primera Division
+92,1076,D. López,92691,Defender,Espanyol,Spain Primera Division
+93,1097,M. Aguirregabiria,333111,Defender,Deportivo Alaves,Spain Primera Division
+94,1734,R. Gosens,141726,Defender,Atalanta,Italian Serie A
+95,1743,A. Kolarov,12267,Defender,Roma,Italian Serie A
+96,1745,F. Acerbi,54968,Defender,Lazio,Italian Serie A
+97,1748,C. Smalling,71345,Defender,Roma,Italian Serie A
+98,1763,A. Sandro,100995,Defender,Juventus,Italian Serie A
+99,1764,J. Luis Palomino,125810,Defender,Atalanta,Italian Serie A
+100,1768,S. de Vrij,82399,Defender,Inter,Italian Serie A
+101,1772,B. Djimsiti,100962,Defender,Atalanta,Italian Serie A
+102,1781,C. Ansaldi,23001,Defender,Torino,Italian Serie A
+103,1782,D. Godín,26059,Defender,Inter,Italian Serie A
+104,1787,O. Aina,315543,Defender,Torino,Italian Serie A
+105,1796,S. Radu,21234,Defender,Lazio,Italian Serie A
+106,1799,A. Romagnoli,118158,Defender,AC Milan,Italian Serie A
+107,1817,R. Tolói,64075,Defender,Atalanta,Italian Serie A
+108,1821,L. Bonucci,20664,Defender,Juventus,Italian Serie A
+109,1835,T. Castagne,141169,Defender,Atalanta,Italian Serie A
+110,1836,D. Biraschi,123767,Defender,Genoa,Italian Serie A
+111,1841,M. Rui,106931,Defender,Napoli,Italian Serie A
+112,1848,C. Biraghi,93935,Defender,Inter,Italian Serie A
+113,1849,K. Koulibaly,90880,Defender,Napoli,Italian Serie A
+114,1859,B. Nuytinck,77422,Defender,Udinese,Italian Serie A
+115,1865,G. Pezzella,121456,Defender,Fiorentina,Italian Serie A
+116,1866,H. Hateboer,135890,Defender,Atalanta,Italian Serie A
+117,1867,M. de Ligt,320374,Defender,Juventus,Italian Serie A
+118,1883,M. Santos,131382,Defender,Sassuolo,Italian Serie A
+119,1884,K. Manolas,70149,Defender,Napoli,Italian Serie A
+120,1892,M. Skriniar,302918,Defender,Inter,Italian Serie A
+121,1893,P. Lirola,323240,Defender,Fiorentina,Italian Serie A
+122,1901,B. Bereszynski,84827,Defender,Sampdoria,Italian Serie A
+123,1912,E. Hysaj,108345,Defender,Napoli,Italian Serie A
+124,1918,N. Nkoulou,43834,Defender,Torino,Italian Serie A
+125,1920,A. Florenzi,101596,Defender,Roma,Italian Serie A
+126,1921,F. Depaoli,302893,Defender,Sampdoria,Italian Serie A
+127,1922,W. Troost-Ekong,133400,Defender,Udinese,Italian Serie A
+128,1923,J. Stryger Larsen,327700,Defender,Udinese,Italian Serie A
+129,1928,Danilo,18727,Defender,Bologna,Italian Serie A
+130,1940,F. Pisacane,141308,Defender,Cagliari,Italian Serie A
+131,1948,G. Marco Ferrari,145352,Defender,Sassuolo,Italian Serie A
+132,1952,F. Romagna,143991,Defender,Sassuolo,Italian Serie A
+133,1957,D. Calabria,260498,Defender,AC Milan,Italian Serie A
+134,1969,L. Rossettini,31302,Defender,Lecce,Italian Serie A
+135,1970,F. Vicari,343369,Defender,SPAL 2013,Italian Serie A
+136,1976,I. Mbaye,118142,Defender,Bologna,Italian Serie A
+137,1982,N. Murru,106275,Defender,Sampdoria,Italian Serie A
+138,1983,L. De Silvestri,19580,Defender,Torino,Italian Serie A
+139,2612,R. Bensebaini,288892,Defender,Borussia M.Gladbach,German 1 Bundesliga
+140,2614,B. Pavard,259648,Defender,Bayern Munich,German 1 Bundesliga
+141,2618,C. Trimmel,71757,Defender,Union Berlin,German 1 Bundesliga
+142,2622,M. Hummels,21541,Defender,Borussia Dortmund,German 1 Bundesliga
+143,2630,N. Mukiele,299077,Defender,RasenBallsport Leipzig,German 1 Bundesliga
+144,2632,William,243276,Defender,Wolfsburg,German 1 Bundesliga
+145,2635,D. Alaba,39722,Defender,Bayern Munich,German 1 Bundesliga
+146,2637,L. Bender,29940,Defender,Bayer Leverkusen,German 1 Bundesliga
+147,2647,L. Klostermann,143600,Defender,RasenBallsport Leipzig,German 1 Bundesliga
+148,2651,M. Hinteregger,83659,Defender,Eintracht Frankfurt,German 1 Bundesliga
+149,2655,S. Bender,22589,Defender,Bayer Leverkusen,German 1 Bundesliga
+150,2656,N. Elvedi,243534,Defender,Borussia M.Gladbach,German 1 Bundesliga
+151,2659,P. Max,142466,Defender,Augsburg,German 1 Bundesliga
+152,2663,M. Gulde,77451,Defender,Freiburg,German 1 Bundesliga
+153,2670,B. Oczipka,67925,Defender,Schalke 04,German 1 Bundesliga
+154,2672,Wendell,132273,Defender,Bayer Leverkusen,German 1 Bundesliga
+155,2674,L. Piszczek,11090,Defender,Borussia Dortmund,German 1 Bundesliga
+156,2675,D. da Costa,94934,Defender,Eintracht Frankfurt,German 1 Bundesliga
+157,2682,J. Tah,134946,Defender,Bayer Leverkusen,German 1 Bundesliga
+158,2687,M. Ginter,110182,Defender,Borussia M.Gladbach,German 1 Bundesliga
+159,2692,D. Heintz,110132,Defender,Freiburg,German 1 Bundesliga
+160,2693,P. Kaderábek,90548,Defender,Hoffenheim,German 1 Bundesliga
+161,2696,R. Knoche,100591,Defender,Wolfsburg,German 1 Bundesliga
+162,2697,K. Ehizibue,244583,Defender,FC Koln,German 1 Bundesliga
+163,2699,M. Weiser,108914,Defender,Bayer Leverkusen,German 1 Bundesliga
+164,2704,J. Boateng,23589,Defender,Bayern Munich,German 1 Bundesliga
+165,2715,J. Roussillon,97145,Defender,Wolfsburg,German 1 Bundesliga
+166,2717,R. Czichos,115172,Defender,FC Koln,German 1 Bundesliga
+167,2720,C. Günter,116464,Defender,Freiburg,German 1 Bundesliga
+168,2721,T. Gebre Selassie,36663,Defender,Werder Bremen,German 1 Bundesliga
+169,2722,R. Koch,276205,Defender,Freiburg,German 1 Bundesliga
+170,2728,D. Brosinski,31814,Defender,Mainz 05,German 1 Bundesliga
+171,2734,N. Gießelmann,115983,Defender,Fortuna Duesseldorf,German 1 Bundesliga
+172,2737,O. Wendt,10088,Defender,Borussia M.Gladbach,German 1 Bundesliga
+173,2754,M. Nastasic,91200,Defender,Schalke 04,German 1 Bundesliga
+174,2775,K. Ayhan,129171,Defender,Fortuna Duesseldorf,German 1 Bundesliga
+175,2779,N. Moisander,25041,Defender,Werder Bremen,German 1 Bundesliga
+176,2786,A. Martín,323546,Defender,Mainz 05,German 1 Bundesliga
+177,2795,M. Niakhaté,296319,Defender,Mainz 05,German 1 Bundesliga
+178,2804,K. Rekik,106530,Defender,Hertha Berlin,German 1 Bundesliga
+179,2805,J. Gouweleeuw,97351,Defender,Augsburg,German 1 Bundesliga
+180,2810,D. Abraham,23199,Defender,Eintracht Frankfurt,German 1 Bundesliga
+181,2818,N. Stark,124597,Defender,Hertha Berlin,German 1 Bundesliga
+182,2819,M. Hasebe,16954,Defender,Eintracht Frankfurt,German 1 Bundesliga
+183,2834,A. Bodzek,14165,Defender,Fortuna Duesseldorf,German 1 Bundesliga
+184,2839,M. Veljkovic,141399,Defender,Werder Bremen,German 1 Bundesliga
+185,3394,Marquinhos,101949,Defender,Paris Saint-Germain,French Ligue 1
+186,3413,J. Amavi,134902,Defender,Marseille,French Ligue 1
+187,3430,B. Sarr,104747,Defender,Marseille,French Ligue 1
+188,3431,N. Pallois,84899,Defender,Nantes,French Ligue 1
+189,3432,P. Kimpembe,247800,Defender,Paris Saint-Germain,French Ligue 1
+190,3439,Marcelo,27761,Defender,Lyon,French Ligue 1
+191,3440,H. Traoré,289018,Defender,Rennes,French Ligue 1
+192,3443,T. Silva,28550,Defender,Paris Saint-Germain,French Ligue 1
+193,3447,G. Konan,331567,Defender,Reims,French Ligue 1
+194,3450,Hilton,6743,Defender,Montpellier,French Ligue 1
+195,3452,T. Meunier,104376,Defender,Paris Saint-Germain,French Ligue 1
+196,3457,D. Da Silva,34176,Defender,Rennes,French Ligue 1
+197,3462,A. Djiku,121711,Defender,Strasbourg,French Ligue 1
+198,3470,I. Sylla,121858,Defender,Toulouse,French Ligue 1
+199,3471,K. Lala,105151,Defender,Strasbourg,French Ligue 1
+200,3474,A. Diallo,248112,Defender,Paris Saint-Germain,French Ligue 1
+201,3481,Dante,6683,Defender,Nice,French Ligue 1
+202,3483,R. Thomas,232577,Defender,Angers,French Ligue 1
+203,3499,H. Sakai,62108,Defender,Marseille,French Ligue 1
+204,3504,L. Dubois,146724,Defender,Lyon,French Ligue 1
+205,3506,L. Kurzawa,92795,Defender,Paris Saint-Germain,French Ligue 1
+206,3510,J. Denayer,243511,Defender,Lyon,French Ligue 1
+207,3514,P. Martinez,234405,Defender,Nimes,French Ligue 1
+208,3525,G. Maripán,121417,Defender,Monaco,French Ligue 1
+209,3526,L. Perrin,13436,Defender,Saint-Etienne,French Ligue 1
+210,3531,K. Glik,44208,Defender,Monaco,French Ligue 1
+211,3537,F. Chafik,236500,Defender,Dijon,French Ligue 1
+212,3549,B. Ecuele Manga,42573,Defender,Dijon,French Ligue 1
+213,3550,D. Congré,13343,Defender,Montpellier,French Ligue 1
+214,3556,L. Koné,34214,Defender,Strasbourg,French Ligue 1
+215,3568,I. Traoré,27356,Defender,Angers,French Ligue 1
+216,3573,P. Mendes,67474,Defender,Montpellier,French Ligue 1
+217,3574,R. Aguilar,236546,Defender,Monaco,French Ligue 1
+218,3576,Á. González,99907,Defender,Marseille,French Ligue 1
+219,3600,J. Gelin,297540,Defender,Rennes,French Ligue 1
+220,3602,F. Ballo-Toure,328968,Defender,Monaco,French Ligue 1
+221,3602,F. Ballo-Toure,328968,Defender,Monaco,French Ligue 1
+222,3609,M. Sarr,322747,Defender,Nice,French Ligue 1
+223,3614,C. Herelle,112220,Defender,Nice,French Ligue 1
+224,3635,B. Dibassy,248278,Defender,Amiens,French Ligue 1
+225,3641,V. Manceau,234365,Defender,Angers,French Ligue 1
+226,3665,K. Amian,297210,Defender,Toulouse,French Ligue 1
+227,4291,A. Grimaldo,107252,Defender,Benfica,Portuguese Liga ZON SAGRES
+228,4296,A. Telles,125793,Defender,FC Porto,Portuguese Liga ZON SAGRES
+229,4308,Bebeto,342768,Defender,Maritimo,Portuguese Liga ZON SAGRES
+230,4312,R. Dias,313171,Defender,Benfica,Portuguese Liga ZON SAGRES
+231,4316,Z. Júnior,137058,Defender,Maritimo,Portuguese Liga ZON SAGRES
+232,4317,J. Aurélio,121722,Defender,Moreirense,Portuguese Liga ZON SAGRES
+233,4320,A. Almeida,106151,Defender,Benfica,Portuguese Liga ZON SAGRES
+234,4339,Patrick,322658,Defender,Santa Clara,Portuguese Liga ZON SAGRES
+235,4352,S. Coates,71268,Defender,Sporting CP,Portuguese Liga ZON SAGRES
+236,4364,J. Mathieu,5881,Defender,Sporting CP,Portuguese Liga ZON SAGRES
+237,4365,P. Henrique,132882,Defender,Vitoria de Guimaraes,Portuguese Liga ZON SAGRES
+238,4376,I. Santos,235919,Defender,Moreirense,Portuguese Liga ZON SAGRES
+239,4400,R. Costa,10110,Defender,Boavista,Portuguese Liga ZON SAGRES
+240,4411,G. Silva,124706,Defender,Belenenses SAD,Portuguese Liga ZON SAGRES
+241,4428,E. Hackman,298403,Defender,Portimonense,Portuguese Liga ZON SAGRES
+242,4429,W. Manafá,342701,Defender,FC Porto,Portuguese Liga ZON SAGRES
+243,4449,L. Possignolo,342696,Defender,Portimonense,Portuguese Liga ZON SAGRES
+244,4470,B. Viana,289112,Defender,Braga,Portuguese Liga ZON SAGRES
+245,4507,R. Fernandes,135962,Defender,Gil Vicente,Portuguese Liga ZON SAGRES
+246,5102,S. Hutchinson,68666,Defender,Millwall,English League Championship
+247,5107,L. Ayling,82877,Defender,Leeds,English League Championship
+248,5116,S. Morrison,37505,Defender,Cardiff,English League Championship
+249,5119,K. Pedersen,228514,Defender,Birmingham,English League Championship
+250,5121,J. Bryan,134331,Defender,Fulham,English League Championship
+251,5129,L. Cooper,44148,Defender,Leeds,English League Championship
+252,5129,L. Cooper,44148,Defender,Leeds,English League Championship
+253,5129,L. Cooper,44148,Defender,Leeds,English League Championship
+254,5129,L. Cooper,44148,Defender,Leeds,English League Championship
+255,5131,A. Flint,134326,Defender,Cardiff,English League Championship
+256,5144,J. de Wijs,245621,Defender,Hull,English League Championship
+257,5148,A. Yiadom,90697,Defender,Reading,English League Championship
+258,5155,A. Robinson,306581,Defender,Wigan,English League Championship
+259,5164,P. Jansson,121123,Defender,Brentford,English League Championship
+260,5165,T. Lees,80088,Defender,Sheffield Wednesday,English League Championship
+261,5169,H. Dalsgaard,120893,Defender,Brentford,English League Championship
+262,5171,A. Williams,8408,Defender,Bristol City,English League Championship
+263,5172,D. Ayala,78559,Defender,Middlesbrough,English League Championship
+264,5172,D. Ayala,78559,Defender,Middlesbrough,English League Championship
+265,5172,D. Ayala,78559,Defender,Middlesbrough,English League Championship
+266,5172,D. Ayala,78559,Defender,Middlesbrough,English League Championship
+267,5174,J. Börner,133024,Defender,Sheffield Wednesday,English League Championship
+268,5185,M. Morrison,19358,Defender,Reading,English League Championship
+269,5192,T. Leistner,101685,Defender,Queens Park Rangers,English League Championship
+270,5203,D. Fisher,130313,Defender,Preston,English League Championship
+271,5215,D. Furlong,262401,Defender,West Bromwich Albion,English League Championship
+272,5218,M. van der Hoorn,101605,Defender,Swansea,English League Championship
+273,5219,D. Odoi,68335,Defender,Fulham,English League Championship
+274,5219,D. Odoi,68335,Defender,Fulham,English League Championship
+275,5219,D. Odoi,68335,Defender,Fulham,English League Championship
+276,5219,D. Odoi,68335,Defender,Fulham,English League Championship
+277,5226,M. Fox,121613,Defender,Sheffield Wednesday,English League Championship
+278,5228,J. Cooper,235842,Defender,Millwall,English League Championship
+279,5235,E. Lichaj,66612,Defender,Hull,English League Championship
+280,5239,J. Bennett,68658,Defender,Cardiff,English League Championship
+281,5240,C. Schindler,132360,Defender,Huddersfield,English League Championship
+282,5241,M. Colin,91926,Defender,Birmingham,English League Championship
+283,5246,M. Romeo,129623,Defender,Millwall,English League Championship
+284,5261,H. Dean,131499,Defender,Birmingham,English League Championship
+285,5265,T. Ream,85006,Defender,Fulham,English League Championship
+286,5265,T. Ream,85006,Defender,Fulham,English League Championship
+287,5265,T. Ream,85006,Defender,Fulham,English League Championship
+288,5265,T. Ream,85006,Defender,Fulham,English League Championship
+289,5270,J. Robinson,86594,Defender,Nottingham Forest,English League Championship
+290,5279,J. Hunt,80745,Defender,Bristol City,English League Championship
+291,5280,B. Davies,124204,Defender,Preston,English League Championship
+292,5283,L. Moore,90218,Defender,Reading,English League Championship
+293,5294,K. Naughton,34131,Defender,Swansea,English League Championship
+294,5296,Y. Barbet,141155,Defender,Queens Park Rangers,English League Championship
+295,5300,L. Peltier,22654,Defender,Cardiff,English League Championship
+296,5302,R. Burke,141510,Defender,Hull,English League Championship
+297,5323,J. Bidwell,82971,Defender,Swansea,English League Championship
+298,5350,C. Christie,134111,Defender,Fulham,English League Championship
+299,5374,L. Palmer,83778,Defender,Sheffield Wednesday,English League Championship
+300,5426,F. Hadergjonaj,136896,Defender,Huddersfield,English League Championship
+301,6469,L. Chambers,8793,Defender,Ipswich,England
+302,6474,M. Beevers,23697,Defender,Peterborough,England
+303,6493,J. Lynch,13927,Defender,Sunderland,England
+304,6835,D. Wheater,14270,Defender,Oldham,England
+305,7144,D. Dumfries,322153,Defender,PSV Eindhoven,Holland Eredivisie
+306,7144,D. Dumfries,322153,Defender,PSV Eindhoven,Holland Eredivisie
+307,7144,D. Dumfries,322153,Defender,PSV Eindhoven,Holland Eredivisie
+308,7144,D. Dumfries,322153,Defender,PSV Eindhoven,Holland Eredivisie
+309,7149,J. Svensson,81247,Defender,AZ Alkmaar,Holland Eredivisie
+310,7164,M. Clark,313996,Defender,Vitesse,Holland Eredivisie
+311,7164,M. Clark,313996,Defender,Vitesse,Holland Eredivisie
+312,7164,M. Clark,313996,Defender,Vitesse,Holland Eredivisie
+313,7164,M. Clark,313996,Defender,Vitesse,Holland Eredivisie
+314,7171,M. Senesi,328330,Defender,Feyenoord,Holland Eredivisie
+315,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+316,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+317,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+318,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+319,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+320,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+321,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+322,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+323,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+324,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+325,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+326,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+327,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+328,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+329,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+330,7172,S. Klaiber,135271,Defender,FC Utrecht,Holland Eredivisie
+331,7184,J. Mattheij,104971,Defender,Sparta Rotterdam,Holland Eredivisie
+332,7195,T. Baumgartl,141328,Defender,PSV Eindhoven,Holland Eredivisie
+333,7216,F. Heerkens,66462,Defender,Willem II,Holland Eredivisie
+334,7222,D. Schwaab,30993,Defender,PSV Eindhoven,Holland Eredivisie
+335,7227,D. Warmerdam,229520,Defender,FC Groningen,Holland Eredivisie
+336,7227,D. Warmerdam,229520,Defender,FC Groningen,Holland Eredivisie
+337,7227,D. Warmerdam,229520,Defender,FC Groningen,Holland Eredivisie
+338,7227,D. Warmerdam,229520,Defender,FC Groningen,Holland Eredivisie
+339,7235,C. Kum,34246,Defender,VVV-Venlo,Holland Eredivisie
+340,7244,M. te Wierik,91123,Defender,FC Groningen,Holland Eredivisie
+341,7244,M. te Wierik,91123,Defender,FC Groningen,Holland Eredivisie
+342,7244,M. te Wierik,91123,Defender,FC Groningen,Holland Eredivisie
+343,7244,M. te Wierik,91123,Defender,FC Groningen,Holland Eredivisie
+344,7249,A. Meijers,31238,Defender,ADO Den Haag,Holland Eredivisie
+345,7249,A. Meijers,31238,Defender,ADO Den Haag,Holland Eredivisie
+346,7249,A. Meijers,31238,Defender,ADO Den Haag,Holland Eredivisie
+347,7249,A. Meijers,31238,Defender,ADO Den Haag,Holland Eredivisie
+348,7251,S. Floranus,322157,Defender,SC Heerenveen,Holland Eredivisie
+349,7256,L. Woudenberg,136066,Defender,SC Heerenveen,Holland Eredivisie
+350,7259,T. Breukers,35160,Defender,Heracles,Holland Eredivisie
+351,7259,T. Breukers,35160,Defender,Heracles,Holland Eredivisie
+352,7259,T. Breukers,35160,Defender,Heracles,Holland Eredivisie
+353,7259,T. Breukers,35160,Defender,Heracles,Holland Eredivisie
+354,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+355,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+356,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+357,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+358,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+359,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+360,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+361,7262,M. van der Maarel,39726,Defender,FC Utrecht,Holland Eredivisie
+362,7269,T. Beugelsdijk,90636,Defender,ADO Den Haag,Holland Eredivisie
+363,7269,T. Beugelsdijk,90636,Defender,ADO Den Haag,Holland Eredivisie
+364,7269,T. Beugelsdijk,90636,Defender,ADO Den Haag,Holland Eredivisie
+365,7269,T. Beugelsdijk,90636,Defender,ADO Den Haag,Holland Eredivisie
+366,7279,R. Janssen,281508,Defender,VVV-Venlo,Holland Eredivisie
+367,7305,N. Röseler,96638,Defender,VVV-Venlo,Holland Eredivisie
+368,7330,D. Lachman,69584,Defender,PEC Zwolle,Holland Eredivisie
+369,7331,T. Lam,104906,Defender,PEC Zwolle,Holland Eredivisie
+370,8148,G. Clichy,6042,Defender,Istanbul Basaksehir,Turkish S�per Lig
+371,8160,Welinton,127681,Defender,Alanyaspor,Turkish S�per Lig
+372,8164,M. Skrtel,19840,Defender,Istanbul Basaksehir,Turkish S�per Lig
+373,8166,C. Erkin,32010,Defender,Besiktas,Turkish S�per Lig
+374,8173,G. Gönül,31468,Defender,Besiktas,Turkish S�per Lig
+375,8175,F. N'Sakala,44671,Defender,Alanyaspor,Turkish S�per Lig
+376,8176,Marcão,318120,Defender,Galatasaray,Turkish S�per Lig
+377,8178,Mariano,40771,Defender,Galatasaray,Turkish S�per Lig
+378,8184,J. Caiçara,74909,Defender,Istanbul Basaksehir,Turkish S�per Lig
+379,8188,I. Chebake,236526,Defender,Yeni Malatyaspor,Turkish S�per Lig
+380,8189,G. Campi,136320,Defender,Trabzonspor,Turkish S�per Lig
+381,8189,G. Campi,136320,Defender,Trabzonspor,Turkish S�per Lig
+382,8196,M. Isla,33878,Defender,Fenerbahce,Turkish S�per Lig
+383,8197,N. Sangaré,345370,Defender,Antalyaspor,Turkish S�per Lig
+384,8198,V. Ruiz,79558,Defender,Besiktas,Turkish S�per Lig
+385,8207,J. Pereira,14386,Defender,Trabzonspor,Turkish S�per Lig
+386,8209,G. Tzavellas,24886,Defender,Alanyaspor,Turkish S�per Lig
+387,8212,C. Osmanpasa,107263,Defender,Sivasspor,Turkish S�per Lig
+388,8221,M. Abarhoun,342611,Defender,Rizespor,Turkish S�per Lig
+389,8229,U. Ciftçi,139554,Defender,Sivasspor,Turkish S�per Lig
+390,8233,M. Lopes,43977,Defender,Kayserispor,Turkish S�per Lig
+391,8237,S. Ben Youssef,109921,Defender,Kasimpasa,Turkish S�per Lig
+392,8239,T. Pinto,43828,Defender,Ankaragucu,Turkish S�per Lig
+393,8245,M. Goiano,135523,Defender,Sivasspor,Turkish S�per Lig
+394,8262,A. Epureanu,17028,Defender,Istanbul Basaksehir,Turkish S�per Lig
+395,8264,S. Popov,51778,Defender,Kasimpasa,Turkish S�per Lig
+396,8275,V. Sari,77503,Defender,Kasimpasa,Turkish S�per Lig
+397,8290,C. Ponck,232384,Defender,Istanbul Basaksehir,Turkish S�per Lig
+398,8298,Chico,41058,Defender,Antalyaspor,Turkish S�per Lig
+399,8301,D. Angelo,33048,Defender,Antalyaspor,Turkish S�per Lig
+400,8303,T. Lopes,343758,Defender,Denizlispor,Turkish S�per Lig
+401,8305,Z. Erdal,93213,Defender,Sivasspor,Turkish S�per Lig
+402,8307,Titi,27763,Defender,Goztepe,Turkish S�per Lig
+403,8319,Zanka,29026,Defender,Fenerbahce,Turkish S�per Lig
+404,8321,A. Mina,282783,Defender,Yeni Malatyaspor,Turkish S�per Lig
+405,8327,L. Gassama,43610,Defender,Goztepe,Turkish S�per Lig
+406,8337,N. Skubic,40609,Defender,Konyaspor,Turkish S�per Lig
+407,8342,O. Celustka,40586,Defender,Antalyaspor,Turkish S�per Lig
+408,8348,C. Sapunaru,20741,Defender,Denizlispor,Turkish S�per Lig
+409,8358,J. Kana-Biyik,36413,Defender,Gaziantep FK,Turkish S�per Lig
+410,9622,M. Barbieri,313041,Defender,Rosario Central,Argentina
+411,9627,Y. Gómez,247429,Defender,Union,Argentina
+412,9628,R. Delgado,134747,Defender,Defensa y Justicia,Argentina
+413,9631,C. Quintana,35784,Defender,Argentinos Juniors,Argentina
+414,9631,C. Quintana,35784,Defender,Argentinos Juniors,Argentina
+415,9657,M. Abero,84973,Defender,Patronato de Parana,Argentina
+416,9674,G. Montiel,316883,Defender,River Plate,Argentina
+417,9681,G. Silva,113484,Defender,Independiente,Argentina
+418,9682,N. Figal,303790,Defender,Independiente,Argentina
+419,9691,B. Pittón,303639,Defender,San Lorenzo,Argentina
+420,9703,J. Rodríguez,303860,Defender,Banfield,Argentina
+421,9704,B. Bianchi,126242,Defender,Atletico Tucuman,Argentina
+422,9706,M. Casco,125507,Defender,River Plate,Argentina
+423,9720,A. Donatti,125338,Defender,Racing Club,Argentina
+424,9722,J. Buffarini,125447,Defender,Boca Juniors,Argentina
+425,9725,C. Chimino,303915,Defender,Patronato de Parana,Argentina
+426,9726,C. Corvalán,125530,Defender,Union,Argentina
+427,9733,Y. Cabral,142257,Defender,Atletico Tucuman,Argentina
+428,9736,M. Coronel,125348,Defender,Gimnasia LP,Argentina
+429,9751,G. Bettini,109451,Defender,Huracan,Argentina
+430,9752,A. Franco,334966,Defender,Independiente,Argentina
+431,9760,J. Sandoval,345318,Defender,Argentinos Juniors,Argentina
+432,9763,J. Schunke,125328,Defender,Estudiantes,Argentina
+433,9765,T. Guidara,337468,Defender,Velez Sarsfield,Argentina
+434,9768,M. Escudero,303720,Defender,Patronato de Parana,Argentina
+435,9779,J. Bottinelli,14425,Defender,Union,Argentina
+436,9780,S. Salcedo,303102,Defender,Huracan,Argentina
+437,9786,F. Bustos,328564,Defender,Independiente,Argentina
+438,9787,L. Abram,318468,Defender,Velez Sarsfield,Argentina
+439,9792,J. Cruz Komar,144307,Defender,Talleres,Argentina
+440,9798,L. Licht,14933,Defender,Gimnasia LP,Argentina
+441,9800,M. Torrén,125804,Defender,Argentinos Juniors,Argentina
+442,9802,L. Villalba,126251,Defender,Aldosivi,Argentina
+443,9806,G. Ortíz,125861,Defender,Colon,Argentina
+444,9816,F. Milo,134710,Defender,Union,Argentina
+445,9833,G. Escobar,317783,Defender,Colon,Argentina
+446,9833,G. Escobar,317783,Defender,Colon,Argentina
+447,9857,J. Elías,282377,Defender,Union,Argentina
+448,9861,R. Civelli,18117,Defender,Banfield,Argentina
+449,9864,M. Caruzzo,20229,Defender,Rosario Central,Argentina
+450,9865,J. Pinola,13743,Defender,River Plate,Argentina
+451,9908,D. Martínez,110922,Defender,Union,Argentina
+452,9912,T. Cardona,261477,Defender,Godoy Cruz,Argentina
+453,9927,L. Godoy,144146,Defender,Talleres,Argentina
+454,9968,C. Araujo,125626,Defender,Huracan,Argentina
+455,9981,F. Coloccini,2859,Defender,San Lorenzo,Argentina
+456,10907,D. Soares,87813,Defender,Bochum,German 2 Bundesliga
+457,10913,T. Leibold,140849,Defender,Hamburger SV,German 2 Bundesliga
+458,10917,L. Paqarada,225523,Defender,Sandhausen,German 2 Bundesliga
+459,10930,M. Caligiuri,11270,Defender,Greuther Fuerth,German 2 Bundesliga
+460,10934,P. Stenzel,141231,Defender,VfB Stuttgart,German 2 Bundesliga
+461,10939,K. Wolze,43363,Defender,Osnabrueck,German 2 Bundesliga
+462,10940,M. Wittek,226599,Defender,Greuther Fuerth,German 2 Bundesliga
+463,10959,W. Anton,296768,Defender,Hannover 96,German 2 Bundesliga
+464,10971,A. Sørensen,328430,Defender,Nuernberg,German 2 Bundesliga
+465,10973,T. Beermann,104034,Defender,FC Heidenheim,German 2 Bundesliga
+466,10985,R. van Drongelen,322154,Defender,Hamburger SV,German 2 Bundesliga
+467,10997,B. Saller,127973,Defender,Jahn Regensburg,German 2 Bundesliga
+468,10998,F. Holland,112490,Defender,Darmstadt,German 2 Bundesliga
+469,11002,O. Sorg,110183,Defender,Nuernberg,German 2 Bundesliga
+470,11016,I. Höhn,106029,Defender,Darmstadt,German 2 Bundesliga
+471,11023,D. Buballa,133347,Defender,St. Pauli,German 2 Bundesliga
+472,11026,G. Nauber,288859,Defender,Sandhausen,German 2 Bundesliga
+473,11032,F. Hartherz,107996,Defender,Arminia Bielefeld,German 2 Bundesliga
+474,11047,M. Knoll,133785,Defender,St. Pauli,German 2 Bundesliga
+475,11052,B. Gimber,291623,Defender,Jahn Regensburg,German 2 Bundesliga
+476,11057,J. van den Bergh,22017,Defender,Holstein Kiel,German 2 Bundesliga
+477,11063,C. Löwe,101664,Defender,Dynamo Dresden,German 2 Bundesliga
+478,11072,L. Gugganig,132162,Defender,Osnabrueck,German 2 Bundesliga
+479,11080,J. Müller,132017,Defender,Dynamo Dresden,German 2 Bundesliga
+480,11085,H. Wahl,132104,Defender,Holstein Kiel,German 2 Bundesliga
+481,11130,L. Mühl,317913,Defender,Nuernberg,German 2 Bundesliga
+482,11132,D. Kempe,132336,Defender,Erzgebirge Aue,German 2 Bundesliga
+483,11138,D. Schmidt,24079,Defender,Holstein Kiel,German 2 Bundesliga
