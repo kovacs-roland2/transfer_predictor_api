@@ -2,8 +2,6 @@ from email.mime import application
 from django.shortcuts import render
 from django.http import JsonResponse
 
-from transferPredictApp.Similarity.similarity_plot import similarity_plot
-
 from .Overview import home_table
 from .Players import players_tournament
 from .Players import players_players

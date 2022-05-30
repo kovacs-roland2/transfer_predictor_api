@@ -11,7 +11,6 @@ urlpatterns = [
     path('radarplot/', views.get_radar_plot, name = 'radarplot'),
     path('violinplot/', views.get_violin_plot, name = 'violinplot'),
     path('scatterplot/', views.get_scatter_plot, name = 'scatterplot'),
-    # path('similarity/', views.get_similarity, name = 'similarity'),
-    path('similarity_plot', views.get_similarity_plot, name = 'similarity_plot'),
+    path('similarity_plot/', views.get_similarity_plot, name = 'similarity_plot'),
     path('predictions/', views.get_predictions, name = 'predictions')
 ]
