@@ -7,6 +7,5 @@ matplotlib
 highlight_text
 scipy
 numpy
-json
 joblib
 sklearn
