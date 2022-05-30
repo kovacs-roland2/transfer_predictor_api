@@ -2,3 +2,15 @@ django
 gunicorn
 django-heroku
 django-cors-headers
+pandas
+matplotlib
+highlight_text
+io
+base64
+math
+scipy
+numpy
+time
+json
+joblib
+sklearn
