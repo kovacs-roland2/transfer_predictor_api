@@ -51,7 +51,7 @@ def similarity_plot(position, name):
     df_columns['sim'] = sim_index[0]
     df_columns['sim'] = round(df_columns['sim'], 2)
 
-    df_columns = df_columns.drop(['playerId', 'positionText_x'], axis = 1)
+    df_columns = df_columns.drop(['playerId', 'positionText_x', 'index'], axis = 1)
     df_columns = df_columns.rename(columns={'League_x': 'League',
                     'NewName_x': 'Name', 'teamName_x': 'Team', 'sim':'Similarity'})
     df_columns = df_columns.drop_duplicates()
